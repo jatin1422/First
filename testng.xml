@@ -3,7 +3,7 @@
 <suite name="Suite1">
 	
 <parameter name = "url" value = "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"/>
-<parameter name ="title" value="OrangeHRM"/>	
+<parameter name ="tiiitle" value="OrangeHRM"/>	
   <test  name="fi1">
     <classes>
       <class name="DataDriven.New">
